@@ -1,6 +1,6 @@
 
 require 'bundler'
-require 'spec'
+require 'pry'
 
 Bundler.require
 
